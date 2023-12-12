@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f168fa-3661-4647-8d7b-1b2d6e931f9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/data/day01/Practice2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/data/day03/Day03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/data/day03/Practice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/data/day04/Day04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/data/day04/Practice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solutions/Day03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solutions/Day04.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +35,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/temilola/Projects/IdeaProjects/AdventofCode2023"
+    "last_opened_file_path": "/Users/temilola/Projects/IdeaProjects/AdventofCode2023/src/main/kotlin/data"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/data" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="solutions" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
